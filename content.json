@@ -7,6 +7,6 @@
         "bilibili": "https://space.bilibili.com/38737757"
     },
     "words": {
-        "word": "{Path}: ./data/interpretation"
+        "Bundle Adjustment": "./data/interpretation/Bundle_Adjustment.md"
     }
 }
